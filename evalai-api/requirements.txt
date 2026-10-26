@@ -1,0 +1,6 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+sqlalchemy>=2.0.36
+alembic>=1.14
+oracledb>=2.5
+pydantic-settings>=2.6
